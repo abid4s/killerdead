@@ -1,4 +1,7 @@
 # 𒅒๖ۣ〴Kιʅʅҽɾ Dҽαԃ(❛‿❛✿̶̥̥)
+
+# Install Tool Termux
+
 # pkg update And apt update
 # pkg upgrade And apt upgrade
 # pkg install python
