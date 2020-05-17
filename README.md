@@ -13,4 +13,4 @@ pip2 install mechanize
 git clone https://github.com/abid4s/killerdead.git
 ls
 cd killerdead
-python2 killerdead.py
+python2 
