@@ -418,7 +418,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mAbi4s\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
-	print "  \033[1;93m«❥•❥•❥•❥•Developed By love❥•❥•❥•❥•»" #Dev:Killerdead
+	print "  \033[1;93m«❥•❥•❥•❥•Developed By Abid❥•❥•❥•❥•»" #Dev:Killerdead
 	print '\033[1;93mProcess Has Been Completed\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
