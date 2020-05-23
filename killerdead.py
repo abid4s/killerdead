@@ -133,7 +133,7 @@ def login():
 		os.system('clear')
 		print logo
 		jalan(' \033[1;91mWarning: \033[1;93mTermux Old Version Install 0.63 to 0.83' )
-		jalan(' \033[1;91m   Note: \033[1;93mUse a New Account To Login im not your responsibility use This Tool misuse illegal' )
+		jalan(' \033[1;91m   Note: \033[1;93mUse a New Account To Login im not responsible if you misuse this tool illegal' )
 		print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97m꧁۝ᗦÄཞӃ༒Ŧﺂℜê۝꧂\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
 		print('	   \033[1;97m■\x1b[1;93m❥•❥•❥•❥••LOGIN WITH FACEBOOK❥•❥•❥•❥••\x1b[1;97m■' )
 		print('	' )
